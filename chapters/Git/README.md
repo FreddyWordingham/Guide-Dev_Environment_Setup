@@ -59,7 +59,7 @@ It is unlikely that the final architecture of a software system will be known at
 Prototypes and experimentation should be how we approach a perfect solution, not pure theory.
 
 So to reach a well-architected result we are **going** to meander through several different experimental approaches.
-And what's more is that they are unlikely going to be monotonically better than the previous one.
+And what's more, is that they are unlikely going to be monotonically better than the previous one.
 For this reason, it is important to be able to track changes to the codebase over time and to be able to revert to previous versions if necessary.
 
 Version control is the management of changes to a file or set of files over time.
@@ -70,3 +70,7 @@ This is useful when multiple developers are working on the same codebase, or whe
 
 There are several popular version control systems, including [`git`](https://git-scm.com/), [Subversion](https://subversion.apache.org/) (`svn`), and [`mercurial`](https://www.mercurial-scm.org/wiki/HgSubversion).
 These systems typically offer features such as branching, merging, and tagging, which allow developers to work on different versions of the same codebase simultaneously, merge changes from different branches, and label specific versions for release.
+
+## Return
+
+[Return to the top-level README](./../../README.md)
