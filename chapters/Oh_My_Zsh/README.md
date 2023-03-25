@@ -105,7 +105,7 @@ For example, to check if a file contains valid JSON data, you can use the `is_js
 is_json < data.json
 ```
 
-#### MacOS aliases
+#### macOS aliases
 
 The [`macos`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos) plugin adds a variety of useful aliases and functions for working with macOS, including shortcuts for common commands, such as `ls`, `grep`, and `find`.
 

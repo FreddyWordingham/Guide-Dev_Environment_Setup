@@ -8,7 +8,7 @@ We can also use it to collaborate with others on the same codebase by branching 
 
 This triggers `macOS` to install the `Xcode Command Line Tools`, which includes `git`.
 
-```bash
+```shell
 git --version
 ```
 
@@ -16,39 +16,39 @@ git --version
 
 Log in to your `GitHub` account:
 
-```bash
+```shell
 git config --global user.name "Your Name"
 git config --global user.email "your.email@domain.com"
 ```
 
 Clone a repository:
 
-```bash
+```shell
 git clone https://github.com/FreddyWordingham/Guide-Dev_Environment_Setup.git
 cd Guide-Dev_Environment_Setup
 ```
 
 Create a new branch:
 
-```bash
+```shell
 git checkout -b new_branch
 ```
 
 Add files to the staging area:
 
-```bash
+```shell
 git add .
 ```
 
 Commit changes:
 
-```bash
+```shell
 git commit -m "Commit message"
 ```
 
 Push changes to the remote repository:
 
-```bash
+```shell
 git push origin new_branch
 ```
 

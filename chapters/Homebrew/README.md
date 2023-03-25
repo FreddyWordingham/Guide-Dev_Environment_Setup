@@ -12,13 +12,13 @@ While we could execute a raw shell script (like we're about to do here using `cu
 
 Navigate to https://brew.sh and copy the code there into your terminal to install `brew`:
 
-```bash
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 Then add the `brew` command to your `PATH`:
 
-```bash
+```shell
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/freddy/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
@@ -27,25 +27,25 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 To install a package, run the following command:
 
-```bash
+```shell
 brew install some_package_name
 ```
 
 To install a graphical application, run the following command:
 
-```bash
+```shell
 brew install --cask some_app_name
 ```
 
 To update all installed packages, run the following command:
 
-```bash
+```shell
 brew upgrade
 ```
 
 To uninstall a package, run the following command:
 
-```bash
+```shell
 brew uninstall some_package
 ```
 
