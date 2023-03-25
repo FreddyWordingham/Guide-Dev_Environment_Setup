@@ -1,4 +1,4 @@
-# Guide-Dev_environment_setup
+# Development environment setup
 
 How to set up a `macOS` software development environment.
 
