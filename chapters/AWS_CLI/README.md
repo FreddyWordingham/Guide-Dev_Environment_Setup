@@ -5,7 +5,7 @@ It provides a command line interface for interacting with AWS services and autom
 
 ## Installation
 
-You can install the `awscli` tool using `Homebrew`:
+You can install the `awscli` tool using Homebrew:
 
 ```bash
 brew install awscli
