@@ -20,3 +20,7 @@ To enable ligatures in VSCode, open `Settings` and add the following to the `set
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true
 ```
+
+## Return
+
+[Return to the top-level README](./../../README.md)
