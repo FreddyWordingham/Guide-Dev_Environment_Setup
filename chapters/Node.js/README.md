@@ -6,7 +6,7 @@ Node.js is an open-source, cross-platform, server-side JavaScript runtime enviro
 
 You can install `node` using Homebrew:
 
-```bash
+```shell
 brew install node
 ```
 
@@ -14,7 +14,7 @@ brew install node
 
 You can create a new project using the `npm` command:
 
-```bash
+```shell
 npm init
 ```
 
@@ -22,7 +22,7 @@ This will create a new `package.json` file in the current directory, which conta
 
 You can install dependencies using:
 
-```bash
+```shell
 npm install some_dependency
 ```
 
@@ -30,7 +30,7 @@ This will install the specified dependency and add it to the `package.json` file
 
 You can run a script with:
 
-```bash
+```shell
 npm run my_script
 ```
 

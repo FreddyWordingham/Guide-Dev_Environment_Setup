@@ -1,6 +1,6 @@
 # Development environment setup
 
-How to set up a `macOS` software development environment.
+How to set up a macOS software development environment.
 
 ## Table of Contents
 

@@ -7,7 +7,7 @@ It is a popular choice among web developers because of its extensive developer t
 
 You can install Firefox using Homebrew:
 
-```bash
+```shell
 brew install --cask firefox
 ```
 
