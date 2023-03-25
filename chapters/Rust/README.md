@@ -1,4 +1,4 @@
-# Rust - Language Compiler
+# Rust - Compiled Language
 
 Rust is designed to provide a balance between low-level control and high-level abstractions, making it a good choice for systems programming tasks such as building numerical simulations, game engines and operating systems.
 The Rust toolchain includes a compiler, a package manager, and documentation generator.
