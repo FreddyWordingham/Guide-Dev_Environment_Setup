@@ -7,7 +7,7 @@ Containers are lightweight, portable, and self-contained environments that conta
 
 You can install `Docker` using `Homebrew`:
 
-```bash
+```shell
 brew install --cask docker
 ```
 
@@ -15,7 +15,7 @@ brew install --cask docker
 
 Start the `Docker` application running:
 
-```bash
+```shell
 open -a Docker
 ```
 
