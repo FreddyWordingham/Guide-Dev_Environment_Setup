@@ -1,5 +1,9 @@
 # Development environment setup
 
+<div align="center">
+    <img src="./resources/images/terminal.png" alt="Terminal">
+</div>
+
 How to set up a macOS software development environment.
 
 ## Table of Contents
