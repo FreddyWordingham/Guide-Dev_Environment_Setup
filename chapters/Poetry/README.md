@@ -1,4 +1,4 @@
-# Poetry - Virtual Environments Manager
+# Poetry - Virtual Environment Manager
 
 Poetry is a tool for managing Python dependencies and packaging Python applications.
 It provides an easy-to-use command-line interface for creating, publishing, and managing Python packages and their dependencies.
@@ -43,7 +43,7 @@ If you want to add a new development dependency to the project, you can do so us
 poetry add --dev some_dev_dependency
 ```
 
-To publish the project to `PyPI`, run the following command:
+To publish the project to PyPI, run the following command:
 
 ```shell
 poetry publish
