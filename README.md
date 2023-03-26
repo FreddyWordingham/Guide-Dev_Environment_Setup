@@ -1,7 +1,7 @@
 # Development environment setup
 
 <div align="center">
-    <img src="./chapters/iTerm2/images/Neofetch.png" alt="Terminal">
+    <img src="./images/logo.svg" alt="Development environment" width=200>
 </div>
 
 How to set up a macOS software development environment.
